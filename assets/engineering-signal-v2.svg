@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" role="img" aria-labelledby="title desc">
+<title id="title">GAN-007 engineering achievement matrix</title>
+<desc id="desc">Self-hosted glossy achievement panel for George Alfred Nyamema.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#030712"/>
+    <stop offset=".5" stop-color="#07182f"/>
+    <stop offset="1" stop-color="#120b2c"/>
+  </linearGradient>
+  <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#38bdf8"/>
+    <stop offset=".5" stop-color="#60a5fa"/>
+    <stop offset="1" stop-color="#a78bfa"/>
+  </linearGradient>
+  <radialGradient id="gem" cx=".32" cy=".26" r=".8">
+    <stop offset="0" stop-color="#ffffff"/>
+    <stop offset=".18" stop-color="#93c5fd"/>
+    <stop offset=".52" stop-color="#2563eb"/>
+    <stop offset="1" stop-color="#4c1d95"/>
+  </radialGradient>
+  <filter id="shadow" x="-40%" y="-40%" width="180%" height="180%">
+    <feDropShadow dx="0" dy="12" stdDeviation="12" flood-color="#000" flood-opacity=".45"/>
+  </filter>
+  <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+    <feGaussianBlur stdDeviation="7" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+</defs>
+<rect width="1200" height="220" rx="26" fill="url(#bg)"/>
+<rect x="1" y="1" width="1198" height="218" rx="25" fill="none" stroke="#60a5fa" stroke-opacity=".28"/>
+<text x="48" y="42" fill="#93c5fd" font-family="ui-monospace,monospace" font-size="14" letter-spacing="3">GAN-TECH // ENGINEERING SIGNAL</text>
+<rect x="48" y="57" width="1104" height="2" rx="1" fill="#0f2740"/>
+<rect x="48" y="57" width="270" height="2" rx="1" fill="url(#line)">
+  <animate attributeName="x" values="48;882;48" dur="8s" repeatCount="indefinite"/>
+</rect>
+<g font-family="Inter,Arial,sans-serif" text-anchor="middle" filter="url(#shadow)">
+  <g transform="translate(125 135)">
+    <circle r="42" fill="url(#gem)"><animate attributeName="r" values="39;43;39" dur="4.7s" repeatCount="indefinite"/></circle>
+    <text y="5" font-size="24" font-weight="800" fill="#fff">AI</text>
+    <text y="70" font-size="13" fill="#cbd5e1">AI ENGINEERING</text>
+  </g>
+  <g transform="translate(315 135)">
+    <circle r="42" fill="url(#gem)"><animate attributeName="r" values="42;38;42" dur="5.1s" repeatCount="indefinite"/></circle>
+    <text y="5" font-size="22" font-weight="800" fill="#fff">SQL</text>
+    <text y="70" font-size="13" fill="#cbd5e1">DATA SYSTEMS</text>
+  </g>
+  <g transform="translate(505 135)">
+    <circle r="42" fill="url(#gem)"><animate attributeName="r" values="39;43;39" dur="5.6s" repeatCount="indefinite"/></circle>
+    <text y="5" font-size="21" font-weight="800" fill="#fff">API</text>
+    <text y="70" font-size="13" fill="#cbd5e1">FULL STACK</text>
+  </g>
+  <g transform="translate(695 135)">
+    <circle r="42" fill="url(#gem)"><animate attributeName="r" values="42;38;42" dur="4.9s" repeatCount="indefinite"/></circle>
+    <text y="5" font-size="20" font-weight="800" fill="#fff">OPS</text>
+    <text y="70" font-size="13" fill="#cbd5e1">CLOUD + DEVOPS</text>
+  </g>
+  <g transform="translate(885 135)">
+    <circle r="42" fill="url(#gem)"><animate attributeName="r" values="39;43;39" dur="5.3s" repeatCount="indefinite"/></circle>
+    <text y="5" font-size="19" font-weight="800" fill="#fff">FIN</text>
+    <text y="70" font-size="13" fill="#cbd5e1">FINTECH + RISK</text>
+  </g>
+  <g transform="translate(1075 135)">
+    <circle r="42" fill="url(#gem)"><animate attributeName="r" values="42;38;42" dur="5.8s" repeatCount="indefinite"/></circle>
+    <text y="5" font-size="20" font-weight="800" fill="#fff">LEAD</text>
+    <text y="70" font-size="13" fill="#cbd5e1">TECH LEADERSHIP</text>
+  </g>
+</g>
+<path d="M167 135H273M357 135H463M547 135H653M737 135H843M927 135H1033" stroke="url(#line)" stroke-width="2" stroke-dasharray="6 10" opacity=".45">
+  <animate attributeName="stroke-dashoffset" values="0;-48" dur="3.5s" repeatCount="indefinite"/>
+</path>
+</svg>
