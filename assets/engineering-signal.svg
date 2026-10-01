@@ -52,12 +52,12 @@
   <g transform="translate(695 135)">
     <circle r="42" fill="url(#gem)"><animate attributeName="r" values="42;38;42" dur="4.9s" repeatCount="indefinite"/></circle>
     <text y="5" font-size="20" font-weight="800" fill="#fff">OPS</text>
-    <text y="70" font-size="13" fill="#cbd5e1">CLOUD & DEVOPS</text>
+    <text y="70" font-size="13" fill="#cbd5e1">CLOUD &amp; DEVOPS</text>
   </g>
   <g transform="translate(885 135)">
     <circle r="42" fill="url(#gem)"><animate attributeName="r" values="39;43;39" dur="5.3s" repeatCount="indefinite"/></circle>
     <text y="5" font-size="19" font-weight="800" fill="#fff">FIN</text>
-    <text y="70" font-size="13" fill="#cbd5e1">FINTECH & RISK</text>
+    <text y="70" font-size="13" fill="#cbd5e1">FINTECH &amp; RISK</text>
   </g>
   <g transform="translate(1075 135)">
     <circle r="42" fill="url(#gem)"><animate attributeName="r" values="42;38;42" dur="5.8s" repeatCount="indefinite"/></circle>
