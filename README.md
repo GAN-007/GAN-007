@@ -31,12 +31,7 @@ I build production-grade systems across **data platforms, fintech analytics, ful
 
 <table>
 <tr>
-<td width="50%" valign="top">
 
-### 🚀 [Work-Lancer](https://github.com/GAN-007/work-lancer)
-Autonomous job-discovery and application operating system with durable workflow orchestration, PostgreSQL-backed execution, ATS integrations, reconciliation and follow-up intelligence.
-
-</td>
 <td width="50%" valign="top">
 
 ### 🧩 [OPEN SUITES OFFICE](https://github.com/GAN-007/OPEN-SUITES-OFFICE-)
