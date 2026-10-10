@@ -89,10 +89,10 @@ A public fintech integration project focused on the M-Pesa payment ecosystem and
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 [Build-Me: AI Auto Company](https://github.com/GAN-007/Build-Me)
-Multi-agent autonomous company orchestration with a local dashboard, consensus memory, scheduled execution loops and Claude Code / Codex CLI support.
+### 🛠️ [OpenForge: AI Engineering OS](https://github.com/GAN-007/OpenForge)
+Open-source AI engineering control plane bringing together multi-agent orchestration, a Rust daemon and CLI, policy-enforced execution, auditable workflows, and developer integrations across web, desktop and IDE environments.
 
-**Focus:** AI agents · Automation · Orchestration
+**Focus:** Rust · Agent orchestration · Developer platforms
 
 </td>
 <td width="50%" valign="top">
