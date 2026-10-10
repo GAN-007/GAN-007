@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/GAN-007/GAN-007.github.io/main/assets/profile/gan-orbit.svg" width="100%" alt="George Alfred Nyamema — Engineering, Data and AI" />
+<img src="https://raw.githubusercontent.com/GAN-007/GAN-007/main/assets/gan-orbit-alien.svg" width="100%" alt="George Alfred Nyamema — Engineering, Data and AI; purple solar system with friendly green aliens and hovering spaceship" />
 
 <br/>
 
