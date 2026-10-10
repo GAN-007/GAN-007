@@ -71,7 +71,7 @@ Telephony and contact-center engineering with intelligent communication workflow
 <tr>
 <td width="50%" valign="top">
 
-### 💬 [PAWA Q&A AI](https://github.com/GAN-007/PAWA-Q-A-AI)
+### 💬 [PAWA Q&amp;A AI](https://github.com/GAN-007/PAWA-Q-A-AI)
 An AI question-answering platform exploring knowledge interaction, retrieval and reasoning workflows.
 
 **Focus:** Applied AI · Knowledge systems
