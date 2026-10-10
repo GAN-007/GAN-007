@@ -1,115 +1,97 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
-<title id="title">GAN-TECH purple solar system with friendly green aliens and orbiting UFO</title>
-<desc id="desc">Accessible futuristic purple nebula and glowing planet, with two friendly green aliens, a hovering spaceship, starfield, and George Alfred Nyamema engineering profile. Motion is decorative.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="460" viewBox="0 0 1200 460" role="img" aria-labelledby="title desc">
+<title id="title">George Alfred Nyamema | GAN-TECH cosmic AI engineering universe</title>
+<desc id="desc">Glossy purple cosmic engineering profile with a luminous planet, green alien pilot inside a floating silver UFO, scanning beam, animated starfield, and orbiting technology satellites for Python, cloud, AI, systems and data.</desc>
 <defs>
-  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-    <stop offset="0" stop-color="#030712"/>
-    <stop offset=".45" stop-color="#170d35"/>
-    <stop offset="1" stop-color="#13072b"/>
-  </linearGradient>
-  <radialGradient id="orb" cx=".34" cy=".28" r=".72">
-    <stop offset="0" stop-color="#f8fbff"/>
-    <stop offset=".18" stop-color="#8be9ff"/>
-    <stop offset=".48" stop-color="#2f7cff"/>
-    <stop offset=".78" stop-color="#5b21b6"/>
-    <stop offset="1" stop-color="#15032e"/>
-  </radialGradient>
-  <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1">
-    <stop offset="0" stop-color="#ffffff" stop-opacity=".24"/>
-    <stop offset=".5" stop-color="#93c5fd" stop-opacity=".08"/>
-    <stop offset="1" stop-color="#7c3aed" stop-opacity=".18"/>
-  </linearGradient>
-  <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="0">
-    <stop offset="0" stop-color="#38bdf8"/>
-    <stop offset="1" stop-color="#a78bfa"/>
-  </linearGradient>
-  <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
-    <feGaussianBlur stdDeviation="10" result="b"/>
-    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
-  </filter>
-  <filter id="shadow" x="-40%" y="-40%" width="180%" height="180%">
-    <feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#000" flood-opacity=".55"/>
-  </filter>
-  <radialGradient id="purpleNebula"><stop offset="0" stop-color="#9d4edd" stop-opacity=".42"/><stop offset=".66" stop-color="#7431c5" stop-opacity=".12"/><stop offset="1" stop-color="#7431c5" stop-opacity="0"/></radialGradient>
-  <linearGradient id="ufoBody" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#e9e9ff"/><stop offset=".48" stop-color="#9285db"/><stop offset="1" stop-color="#3e286f"/></linearGradient>
-  <linearGradient id="alienSkin" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#d9ff9a"/><stop offset=".45" stop-color="#7bfb74"/><stop offset="1" stop-color="#28c56e"/></linearGradient>
-  <radialGradient id="tractorBeam"><stop offset="0" stop-color="#6effb4" stop-opacity=".32"/><stop offset="1" stop-color="#6effb4" stop-opacity="0"/></radialGradient>
-  <style>
-    .ufo-hover{animation:ufo-drift 7s ease-in-out infinite;transform-box:fill-box;transform-origin:center}
-    .alien-float{animation:alien-bob 5.4s ease-in-out infinite;transform-box:fill-box;transform-origin:center}
-    .star-twinkle{animation:star-pulse 3.8s ease-in-out infinite}
-    @keyframes ufo-drift{0%,100%{transform:translate(0px,0px) rotate(-5deg)}50%{transform:translate(13px,-12px) rotate(4deg)}}
-    @keyframes alien-bob{0%,100%{transform:translateY(0px)}50%{transform:translateY(-8px)}}
-    @keyframes star-pulse{0%,100%{opacity:.18}50%{opacity:.9}}
-    @media (prefers-reduced-motion:reduce){.ufo-hover,.alien-float,.star-twinkle{animation:none!important}}
-  </style>
+<radialGradient id="space"><stop stop-color="#38135e"/><stop offset=".46" stop-color="#1d123f"/><stop offset="1" stop-color="#060719"/></radialGradient>
+<radialGradient id="nebula"><stop stop-color="#a642ff" stop-opacity=".6"/><stop offset=".45" stop-color="#6527b6" stop-opacity=".19"/><stop offset="1" stop-color="#391272" stop-opacity="0"/></radialGradient>
+<radialGradient id="planet" cx=".29" cy=".22" r=".81"><stop stop-color="#f5ebff"/><stop offset=".12" stop-color="#d1a4ff"/><stop offset=".31" stop-color="#9e57ee"/><stop offset=".62" stop-color="#5c2aab"/><stop offset=".85" stop-color="#32135f"/><stop offset="1" stop-color="#110b30"/></radialGradient>
+<linearGradient id="metal" x2="0" y2="1"><stop stop-color="#fff"/><stop offset=".18" stop-color="#e1ddff"/><stop offset=".46" stop-color="#8885b8"/><stop offset=".7" stop-color="#484268"/><stop offset="1" stop-color="#16182d"/></linearGradient>
+<linearGradient id="dome" x2=".25" y2="1"><stop stop-color="#eaffff" stop-opacity=".93"/><stop offset=".3" stop-color="#80dfef" stop-opacity=".7"/><stop offset=".8" stop-color="#4c7bb7" stop-opacity=".45"/><stop offset="1" stop-color="#1f2553" stop-opacity=".78"/></linearGradient>
+<linearGradient id="skin" x2=".85" y2="1"><stop stop-color="#efffb1"/><stop offset=".32" stop-color="#a4ff73"/><stop offset=".73" stop-color="#38d96e"/><stop offset="1" stop-color="#0b754d"/></linearGradient>
+<linearGradient id="beam" x2="0" y2="1"><stop stop-color="#aaffdc" stop-opacity=".55"/><stop offset=".5" stop-color="#55ffb8" stop-opacity=".16"/><stop offset="1" stop-color="#52ffc0" stop-opacity="0"/></linearGradient>
+<linearGradient id="glass"><stop stop-color="#faf5ff" stop-opacity=".15"/><stop offset=".6" stop-color="#ab8cff" stop-opacity=".04"/><stop offset="1" stop-color="#84efff" stop-opacity=".09"/></linearGradient>
+<linearGradient id="textGlow"><stop stop-color="#9efce7"/><stop offset=".52" stop-color="#b8a4ff"/><stop offset="1" stop-color="#6fbcff"/></linearGradient>
+<filter id="soft"><feGaussianBlur stdDeviation="26"/></filter>
+<filter id="glow"><feGaussianBlur stdDeviation="5" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<filter id="lift" x="-35%" y="-60%" width="170%" height="230%"><feDropShadow dx="0" dy="13" stdDeviation="13" flood-color="#000312" flood-opacity=".82"/></filter>
+<clipPath id="frame"><rect width="1200" height="460" rx="30"/></clipPath>
+<style>
+.ufo{animation:fly 7s ease-in-out infinite;transform-box:fill-box;transform-origin:center}
+.ufo-lamp{animation:lamp 2.4s ease-in-out infinite}
+.pupil{animation:look 5s ease-in-out infinite;transform-box:fill-box;transform-origin:center}
+.planet-turn{animation:turn 48s linear infinite;transform-origin:940px 250px}
+.orbit-spin{animation:turn 28s linear infinite;transform-origin:940px 250px}
+.orbit-spin-back{animation:turn 37s linear infinite reverse;transform-origin:940px 250px}
+.star{animation:twinkle 3.6s ease-in-out infinite}
+.signal{animation:dash 6s linear infinite}
+.beam-pulse{animation:beamPulse 7s ease-in-out infinite}
+@keyframes fly{0%,100%{transform:translate(0px,0px) rotate(-3deg)}50%{transform:translate(16px,-15px) rotate(2deg)}}
+@keyframes turn{to{transform:rotate(360deg)}}
+@keyframes lamp{0%,100%{opacity:.45}50%{opacity:1}}
+@keyframes look{0%,100%{transform:translateX(0)}45%,60%{transform:translateX(5px)}}
+@keyframes twinkle{0%,100%{opacity:.16}50%{opacity:.95}}
+@keyframes dash{to{stroke-dashoffset:-90}}
+@keyframes beamPulse{0%,100%{opacity:.15}42%,66%{opacity:.8}}
+@media(prefers-reduced-motion:reduce){.ufo,.ufo-lamp,.pupil,.planet-turn,.orbit-spin,.orbit-spin-back,.star,.signal,.beam-pulse{animation:none!important}}
+</style>
 </defs>
-<rect width="1200" height="420" rx="28" fill="url(#bg)"/>
-<g aria-hidden="true"><ellipse cx="955" cy="180" rx="290" ry="210" fill="url(#purpleNebula)"/><ellipse cx="1120" cy="35" rx="210" ry="130" fill="url(#purpleNebula)"/>
-<g fill="#d5b3ff"><circle class="star-twinkle" cx="756" cy="44" r="2"/><circle cx="793" cy="22" r="1.5"/><circle class="star-twinkle" cx="948" cy="26" r="1.9"/><circle cx="1100" cy="160" r="2"/><circle cx="1144" cy="229" r="1.7"/><circle class="star-twinkle" cx="768" cy="291" r="2.2"/><circle cx="1130" cy="376" r="2"/><circle cx="992" cy="393" r="1.5"/><circle class="star-twinkle" cx="710" cy="391" r="1.9"/></g></g>
-<g opacity=".22">
-  <path d="M0 70H1200M0 140H1200M0 210H1200M0 280H1200M0 350H1200" stroke="#60a5fa" stroke-width=".7"/>
-  <path d="M100 0V420M200 0V420M300 0V420M400 0V420M500 0V420M600 0V420M700 0V420M800 0V420M900 0V420M1000 0V420M1100 0V420" stroke="#60a5fa" stroke-width=".45"/>
+<g clip-path="url(#frame)">
+<rect width="1200" height="460" fill="url(#space)"/>
+<ellipse cx="915" cy="223" rx="355" ry="270" fill="url(#nebula)"/>
+<ellipse cx="1132" cy="54" rx="225" ry="173" fill="#a734eb" opacity=".13" filter="url(#soft)"/>
+<g fill="#c9baff"><circle cx="741" cy="52" r="2" class="star"/><circle cx="800" cy="18" r="1.5"/><circle cx="1061" cy="40" r="2.3" class="star"/><circle cx="1156" cy="112" r="1.7"/><circle cx="1105" cy="348" r="2" class="star"/><circle cx="814" cy="418" r="2.1"/><circle cx="685" cy="290" r="1.5" class="star"/><circle cx="1181" cy="400" r="2"/><circle cx="1085" cy="435" r="1.4"/><circle cx="780" cy="160" r="1.4"/></g>
+<g opacity=".16" stroke="#bb8dff" stroke-width="1"><path d="M0 77H1200M0 153H1200M0 230H1200M0 306H1200M0 383H1200"/><path d="M80 0V460M160 0V460M240 0V460M320 0V460M400 0V460M480 0V460M560 0V460M640 0V460M720 0V460M800 0V460M880 0V460M960 0V460M1040 0V460M1120 0V460"/></g>
+<!-- Left: holographic engineering profile with legible fixed text -->
+<g filter="url(#lift)">
+<rect x="48" y="69" width="628" height="320" rx="25" fill="#0c102d" fill-opacity=".93" stroke="#9f89ea" stroke-opacity=".6" stroke-width="1.4"/>
+<rect x="61" y="82" width="602" height="294" rx="18" fill="url(#glass)" stroke="#f0e3ff" stroke-opacity=".12"/>
+<path d="M71 111H651" stroke="#c6a6ff" stroke-opacity=".3"/>
+<circle cx="90" cy="97" r="4" fill="#8cffb0"/><circle cx="107" cy="97" r="4" fill="#ab86ff"/><circle cx="124" cy="97" r="4" fill="#73d2ff"/>
+<text x="85" y="149" font-family="monospace" font-size="14" letter-spacing="2.5" fill="#a5fbdd">GAN-TECH // GALACTIC ENGINEERING</text>
+<text x="85" y="203" font-family="Arial,sans-serif" font-size="33" font-weight="800" letter-spacing=".4" fill="#fff">GEORGE ALFRED NYAMEMA</text>
+<text x="85" y="246" font-family="Arial,sans-serif" font-size="21" font-weight="700" fill="url(#textGlow)">ENGINEERING · DATA · AI · AUTOMATION</text>
+<text x="85" y="285" font-family="Arial,sans-serif" font-size="15" fill="#dfdcf7">Building intelligent systems from ideas to production.</text>
+<text x="85" y="317" font-family="monospace" font-size="12.5" fill="#88e8d1">PYTHON / CLOUD / AI / DATA / SYSTEMS</text>
+<rect x="85" y="338" width="530" height="3" rx="1.5" fill="#46306d"/>
+<rect x="85" y="338" width="315" height="3" rx="1.5" fill="#72ffc0" filter="url(#glow)"/>
+<text x="615" y="359" text-anchor="end" font-family="monospace" font-size="10" fill="#b9b6dd">BUILD // EXPLORE // SHIP</text>
 </g>
-<g transform="translate(90 60)">
-  <rect x="0" y="0" width="640" height="300" rx="30" fill="url(#glass)" stroke="#60a5fa" stroke-opacity=".36" filter="url(#shadow)"/>
-  <rect x="20" y="20" width="600" height="260" rx="22" fill="#04111f" fill-opacity=".72" stroke="#ffffff" stroke-opacity=".08"/>
-  <circle cx="54" cy="49" r="6" fill="#22d3ee"><animate attributeName="opacity" values=".35;1;.35" dur="2.1s" repeatCount="indefinite"/></circle>
-  <circle cx="76" cy="49" r="6" fill="#8b5cf6"><animate attributeName="opacity" values="1;.35;1" dur="2.6s" repeatCount="indefinite"/></circle>
-  <circle cx="98" cy="49" r="6" fill="#2563eb"/>
-  <text x="42" y="105" fill="#93c5fd" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="16" letter-spacing="3">GAN-TECH // SYSTEM PROFILE</text>
-  <text x="42" y="156" fill="#ffffff" font-family="Inter,Arial,sans-serif" font-weight="800" font-size="34">GEORGE ALFRED NYAMEMA</text>
-  <text x="42" y="198" fill="url(#cyan)" font-family="Inter,Arial,sans-serif" font-weight="700" font-size="22">Engineering · Data · AI · Automation</text>
-  <text x="42" y="236" fill="#cbd5e1" font-family="Inter,Arial,sans-serif" font-size="16">I build production systems that turn complexity into measurable outcomes.</text>
-  <rect x="42" y="253" width="205" height="5" rx="2.5" fill="#0f2740"/>
-  <rect x="42" y="253" width="120" height="5" rx="2.5" fill="url(#cyan)">
-    <animate attributeName="width" values="80;205;120;205;80" dur="6s" repeatCount="indefinite"/>
-  </rect>
+<!-- Planet sphere and illuminated orbital rings -->
+<ellipse cx="939" cy="255" rx="168" ry="70" transform="rotate(-19 939 255)" fill="none" stroke="#d9a5ff" stroke-width="3" stroke-opacity=".62" filter="url(#glow)"/>
+<ellipse cx="939" cy="255" rx="191" ry="91" transform="rotate(28 939 255)" fill="none" stroke="#65e5ff" stroke-width="2" stroke-opacity=".38"/>
+<circle cx="940" cy="250" r="107" fill="#7b30e0" opacity=".28" filter="url(#soft)"/>
+<circle cx="940" cy="250" r="100" fill="url(#planet)" stroke="#d5a2ff" stroke-opacity=".55" stroke-width="1.5" filter="url(#lift)"/>
+<g class="planet-turn" clip-path="url(#frame)" opacity=".26" fill="none" stroke="#ffd5ff" stroke-width="7"><path d="M849 230Q942 206 1034 244M848 259Q937 239 1031 283M871 300Q940 277 1010 305"/></g>
+<ellipse cx="912" cy="203" rx="33" ry="18" transform="rotate(-35 912 203)" fill="#fff" opacity=".22" filter="url(#soft)"/>
+<path d="M761 317Q942 399 1112 218" fill="none" stroke="#dcaaff" stroke-opacity=".5" stroke-width="2" stroke-dasharray="5 12" class="signal"/>
+<!-- Tech satellite capsules -->
+<g font-family="monospace" font-size="11.5" text-anchor="middle" font-weight="700">
+<g transform="translate(810 128)"><rect x="-42" y="-16" width="84" height="32" rx="16" fill="#122448" stroke="#84f8d2"/><text y="4" fill="#baffdf">PYTHON</text><circle cx="-42" r="3" fill="#84f8d2" filter="url(#glow)"/></g>
+<g transform="translate(1110 205)"><rect x="-40" y="-16" width="80" height="32" rx="16" fill="#122448" stroke="#a795ff"/><text y="4" fill="#efe0ff">CLOUD</text><circle cx="-40" r="3" fill="#a795ff" filter="url(#glow)"/></g>
+<g transform="translate(817 375)"><rect x="-36" y="-16" width="72" height="32" rx="16" fill="#122448" stroke="#85d8ff"/><text y="4" fill="#d8f6ff">DATA</text><circle cx="-36" r="3" fill="#85d8ff" filter="url(#glow)"/></g>
+<g transform="translate(1080 365)"><rect x="-44" y="-16" width="88" height="32" rx="16" fill="#122448" stroke="#8afab9"/><text y="4" fill="#ceffe5">SYSTEMS</text><circle cx="-44" r="3" fill="#8afab9" filter="url(#glow)"/></g>
+<g transform="translate(983 105)"><rect x="-26" y="-16" width="52" height="32" rx="16" fill="#122448" stroke="#c6a4ff"/><text y="4" fill="#ede1ff">AI</text><circle cx="-26" r="3" fill="#c6a4ff" filter="url(#glow)"/></g>
 </g>
-<g transform="translate(870 210)" filter="url(#glow)">
-  <ellipse rx="160" ry="62" fill="none" stroke="#38bdf8" stroke-opacity=".6" stroke-width="2" transform="rotate(-18)">
-    <animateTransform attributeName="transform" type="rotate" values="-18;-378" dur="14s" repeatCount="indefinite"/>
-  </ellipse>
-  <ellipse rx="126" ry="112" fill="none" stroke="#8b5cf6" stroke-opacity=".46" stroke-width="2" transform="rotate(38)">
-    <animateTransform attributeName="transform" type="rotate" values="38;398" dur="20s" repeatCount="indefinite"/>
-  </ellipse>
-  <circle r="88" fill="url(#orb)" filter="url(#shadow)">
-    <animate attributeName="r" values="84;90;84" dur="5s" repeatCount="indefinite"/>
-  </circle>
-  <ellipse cx="-25" cy="-32" rx="34" ry="18" fill="#fff" opacity=".28" transform="rotate(-28)"/>
-  <circle cx="155" cy="-14" r="9" fill="#67e8f9">
-    <animateTransform attributeName="transform" type="rotate" values="0;360" dur="8s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="-116" cy="-76" r="7" fill="#c4b5fd">
-    <animateTransform attributeName="transform" type="rotate" values="0;-360" dur="11s" repeatCount="indefinite"/>
-  </circle>
+<!-- UFO adapted from user-provided window, alien, five lamps and tractor-beam concept -->
+<g transform="translate(935 89)">
+<g class="ufo" filter="url(#lift)">
+<path d="M-23 42L-56 154H56L23 42Z" fill="url(#beam)" class="beam-pulse"/>
+<g transform="translate(0 -16)">
+<!-- green alien pilot framed inside the glass canopy -->
+<ellipse cx="0" cy="17" rx="24" ry="33" fill="url(#skin)" stroke="#c4ffbe" stroke-width="1.5"/>
+<path d="M-17 -4L-29 -24M17 -4L29 -24" stroke="#a4ff8e" stroke-width="4" stroke-linecap="round"/>
+<ellipse cx="-10" cy="12" rx="7.5" ry="12" fill="#071822" transform="rotate(-12 -10 12)"/>
+<ellipse cx="10" cy="12" rx="7.5" ry="12" fill="#071822" transform="rotate(12 10 12)"/>
+<g class="pupil" fill="#e8fffa"><circle cx="-12" cy="8" r="2.4"/><circle cx="8" cy="8" r="2.4"/></g>
+<path d="M-6 33Q0 38 6 33" stroke="#126c49" stroke-width="2.5" fill="none" stroke-linecap="round"/>
 </g>
-<g font-family="ui-monospace,monospace" font-size="13" fill="#93c5fd">
-  <text x="790" y="72">PYTHON</text><text x="1005" y="95">POSTGRESQL</text>
-  <text x="1032" y="330">CLOUD</text><text x="760" y="350">LLM / ML</text>
+<path d="M-43 41Q-35 -41 0 -42Q35 -41 43 41Z" fill="url(#dome)" stroke="#c6faff" stroke-width="2.2"/>
+<path d="M-28 17Q-26 -20 1 -30" stroke="#f5ffff" stroke-width="5" opacity=".5" fill="none" stroke-linecap="round"/>
+<ellipse cx="0" cy="45" rx="76" ry="21" fill="url(#metal)" stroke="#e3d6ff" stroke-width="2"/>
+<ellipse cx="0" cy="35" rx="62" ry="9" fill="#eeeaff" opacity=".74"/>
+<ellipse cx="0" cy="55" rx="55" ry="6" fill="#282447" opacity=".85"/>
+<g class="ufo-lamp" fill="#a5ffb4" filter="url(#glow)"><circle cx="-52" cy="47" r="5"/><circle cx="-26" cy="54" r="5"/><circle cx="0" cy="57" r="5"/><circle cx="26" cy="54" r="5"/><circle cx="52" cy="47" r="5"/></g>
+</g></g>
+<rect x="1" y="1" width="1198" height="458" rx="29" fill="none" stroke="#bb94ff" stroke-opacity=".55" stroke-width="2"/>
 </g>
-<path d="M785 82C835 105 845 120 858 144M1011 105C977 126 954 140 935 155M1025 320C993 299 970 282 948 265M790 340C816 308 832 286 845 270" stroke="#38bdf8" stroke-opacity=".34" stroke-width="1.5" stroke-dasharray="5 8">
-  <animate attributeName="stroke-dashoffset" values="0;-52" dur="4s" repeatCount="indefinite"/>
-</path>
-<g aria-label="Silver flying saucer hovering above the violet planet" transform="translate(801 79)"><g class="ufo-hover">
-  <ellipse cx="0" cy="30" rx="42" ry="13" fill="url(#tractorBeam)" />
-  <path d="M-22 7Q-16 -27 0 -27Q16 -27 22 7Z" fill="#63e7d8" stroke="#d9fdff" stroke-width="2" opacity=".94"/>
-  <path d="M-13 -3Q0 -20 14 -3" fill="none" stroke="#eaffff" stroke-opacity=".7" stroke-width="3"/>
-  <ellipse cy="11" rx="52" ry="17" fill="url(#ufoBody)" stroke="#d8c5ff" stroke-width="2"/>
-  <ellipse cy="5" rx="43" ry="7" fill="#e3d8ff" opacity=".8"/>
-  <g fill="#a3ffb4"><circle cx="-35" cy="13" r="3.5"/><circle cx="-17" cy="19" r="3.5"/><circle cx="0" cy="21" r="3.5"/><circle cx="17" cy="19" r="3.5"/><circle cx="35" cy="13" r="3.5"/></g>
-  <path d="M-17 25L-42 94H42L17 25Z" fill="url(#tractorBeam)" opacity=".65"/>
-  <ellipse cx="0" cy="30" rx="52" ry="8" fill="#a4ffbb" opacity=".16"/>
-</g></g><g aria-label="Friendly green alien observing the purple solar system" transform="translate(1115 95)">
-  <g class="alien-float">
-    <ellipse cx="0" cy="5" rx="32" ry="39" fill="url(#alienSkin)" stroke="#c9ffc8" stroke-width="2"/>
-    <path d="M-23 -18L-37 -46L-15 -34M23 -18L37 -46L15 -34" fill="none" stroke="#8afc89" stroke-width="6" stroke-linecap="round"/>
-    <ellipse cx="-13" cy="0" rx="11" ry="15" fill="#102636" transform="rotate(-18 -13 0)"/>
-    <ellipse cx="13" cy="0" rx="11" ry="15" fill="#102636" transform="rotate(18 13 0)"/>
-    <ellipse cx="-16" cy="-5" rx="3" ry="5" fill="#d2fffb" opacity=".9"/><ellipse cx="10" cy="-5" rx="3" ry="5" fill="#d2fffb" opacity=".9"/>
-    <path d="M-9 21Q0 29 9 21" fill="none" stroke="#215d45" stroke-width="3" stroke-linecap="round"/>
-    <ellipse cx="-25" cy="18" rx="7" ry="4" fill="#ff92df" opacity=".35"/><ellipse cx="25" cy="18" rx="7" ry="4" fill="#ff92df" opacity=".35"/>
-    <path d="M-18 39Q0 56 18 39L22 64H-22Z" fill="#713ac5" stroke="#ab88ed" stroke-width="2"/>
-  </g>
-</g>
-<g aria-label="Small green alien navigator" transform="translate(1085 350) scale(.55)"><g class="alien-float"><ellipse rx="30" ry="37" fill="url(#alienSkin)"/><ellipse cx="-12" cy="-4" rx="9" ry="13" fill="#0a2434"/><ellipse cx="12" cy="-4" rx="9" ry="13" fill="#0a2434"/><path d="M-7 17Q0 23 7 17" fill="none" stroke="#20573a" stroke-width="3"/></g></g></svg>
+</svg>
