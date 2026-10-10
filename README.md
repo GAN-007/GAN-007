@@ -15,7 +15,7 @@
 
 I’m **George Alfred Nyamema (GAN-007 / GAN-TECH)** — a **Data Scientist, Data Engineer, Full-Stack Software Engineer, AI/ML Engineer and Technical Lead** based in Nairobi, Kenya.
 
-I build production-grade systems across **data platforms, fintech analytics, full-stack products, AI agents, automation, cloud infrastructure, APIs, business intelligence and decision systems**. My work sits at the intersection of engineering depth and commercial context: turning complex requirements, fragmented data and operational problems into secure software and measurable outcomes.
+I design and build systems across **data platforms, fintech analytics, full-stack products, AI agents, automation, cloud infrastructure, APIs, business intelligence and decision systems**. My work sits at the intersection of engineering depth and commercial context: turning complex requirements, fragmented data and operational problems into secure software and measurable outcomes.
 
 - 🔭 **Current focus:** production AI, analytical engineering, data systems, autonomous workflows and full-stack platforms
 - 🧠 **Strengths:** Python, Django/DRF/FastAPI, PostgreSQL, React/JavaScript, advanced SQL, ML/LLMs, APIs, Docker/Linux, cloud and CI/CD
@@ -27,49 +27,88 @@ I build production-grade systems across **data platforms, fintech analytics, ful
 
 <img src="https://raw.githubusercontent.com/GAN-007/GAN-007.github.io/main/assets/profile/stack-cloud.svg" width="100%" alt="GAN technology stack" />
 
-## Selected systems I build
+## Featured public engineering projects
+
+A selected, cross-disciplinary view of my work in **AI, software engineering, enterprise systems, fintech and automation**. Each project below links to a public repository, with more available in my [full repository catalogue](https://github.com/GAN-007?tab=repositories).
 
 <table>
 <tr>
-
 <td width="50%" valign="top">
 
 ### 🧩 [OPEN SUITES OFFICE](https://github.com/GAN-007/OPEN-SUITES-OFFICE-)
-AI-native productivity and office platform focused on documents, data, files, workflows and intelligent user interaction.
+An AI-oriented productivity workspace spanning document operations, files, data and connected business workflows.
+
+**Focus:** Productivity platforms · Intelligent workflows
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🧠 [GitHub AI Genius](https://github.com/GAN-007/github-ai-genius)
-AI-assisted GitHub engineering workflows for repository intelligence, analysis, automation and developer productivity.
+Repository intelligence and AI-assisted engineering workflows for code analysis, automation and developer productivity.
 
-</td>
-<td width="50%" valign="top">
-
-### 👥 [GANTECH HRM](https://github.com/GAN-007/GANTECH-HRM)
-Human-resource management platform combining workforce operations, structured business workflows and production software engineering.
+**Focus:** Developer tooling · AI automation
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 📞 [FREEPBX AI](https://github.com/GAN-007/FREEPBX-AI-)
-AI-enhanced telephony and contact-center engineering around FreePBX, automation and intelligent communications workflows.
+### 👥 [GANTECH HRM](https://github.com/GAN-007/GANTECH-HRM)
+Human-resource management and structured workforce operations through business-process software.
+
+**Focus:** Enterprise systems · Workforce management
 
 </td>
 <td width="50%" valign="top">
 
-### 💬 [PAWA Q&A AI](https://github.com/GAN-007/PAWA-Q-A-AI)
-Question-answering and AI workflow platform designed around retrieval, reasoning and practical knowledge interaction.
+### 📞 [FREEPBX AI](https://github.com/GAN-007/FREEPBX-AI-)
+Telephony and contact-center engineering with intelligent communication workflows built around FreePBX.
+
+**Focus:** Communications · Systems integration
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💬 [PAWA Q&amp;A AI](https://github.com/GAN-007/PAWA-Q-A-AI)
+An AI question-answering platform exploring knowledge interaction, retrieval and reasoning workflows.
+
+**Focus:** Applied AI · Knowledge systems
+
+</td>
+<td width="50%" valign="top">
+
+### 💳 [M-Pesa Payments](https://github.com/GAN-007/MPESA)
+A public fintech integration project focused on the M-Pesa payment ecosystem and transaction workflows.
+
+**Focus:** Payments · Financial technology
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 [Build-Me: AI Auto Company](https://github.com/GAN-007/Build-Me)
+Multi-agent autonomous company orchestration with a local dashboard, consensus memory, scheduled execution loops and Claude Code / Codex CLI support.
+
+**Focus:** AI agents · Automation · Orchestration
+
+</td>
+<td width="50%" valign="top">
+
+### 📄 [AI Document Assistant](https://github.com/GAN-007/ai-document-assistant)
+Full-stack AI document processing with a FastAPI backend, React interface, side-by-side review, model-assisted suggestions and user-controlled acceptance.
+
+**Focus:** FastAPI · React · Document AI
 
 </td>
 </tr>
 </table>
 
-> Some production and client systems are private. Public repositories above are selected examples of the broader engineering portfolio.
+**Explore more:** [All public repositories →](https://github.com/GAN-007?tab=repositories) · [Personal portfolio →](https://gan-007.github.io/)
+
+> Selected projects illustrate engineering interests and implementation work; source availability is not a claim that each project is commercially deployed. Additional production and client systems are private.
 
 ## Core stack
 
@@ -129,6 +168,10 @@ GAN-007
 <img src="https://raw.githubusercontent.com/GAN-007/GAN-007/main/assets/engineering-signal-v2.svg" width="100%" alt="GAN-007 engineering achievement matrix" />
 
 </div>
+
+## How I turn complex work into dependable systems
+
+**Discover → Architect → Build → Validate → Deploy → Improve.** I combine practical product thinking with implementation: translating business requirements into data models, secure APIs, intuitive interfaces, testable workflows and observable deployments. My approach values ownership, documentation, measurable impact and responsible use of AI.
 
 ## Experience snapshot
 
